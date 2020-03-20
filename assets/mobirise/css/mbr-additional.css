@@ -1180,14 +1180,13 @@ section.lazy-placeholder:after {
 }
 .cid-rTN7Up28hW {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 .cid-rTN7Up28hW .container-fluid {
   padding: 0 3rem;
 }
 .cid-rTN7Up28hW .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 767px) {
   .cid-rTN7Up28hW .container-fluid {
