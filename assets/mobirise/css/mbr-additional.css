@@ -1096,6 +1096,88 @@ section.lazy-placeholder:after {
     padding: 0 1rem;
   }
 }
+.cid-rTN4YfI2OK {
+  background-image: url("../../../assets/images/foto-senderismo-597x429.png");
+}
+.cid-rTN4YfI2OK .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rTN4YfI2OK .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-rTN4YfI2OK .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-rTN4YfI2OK .modalWindow {
+  display: none;
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-rTN4YfI2OK .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-rTN4YfI2OK .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-rTN4YfI2OK a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-rTN4YfI2OK a.close:hover {
+  color: #ffffff;
+}
+.cid-rTN4YfI2OK svg {
+  transition: all 0.5s ease-in;
+}
+.cid-rTN4YfI2OK svg .blick {
+  transiton: opacity 0.5s ease-in;
+  opacity: 1;
+}
+.cid-rTN4YfI2OK svg:hover {
+  cursor: pointer;
+  -webkit-transform: rotate(120deg);
+  transform: rotate(120deg);
+}
+.cid-rTN4YfI2OK svg:hover .blick {
+  transition: opacity 0.5s ease-in;
+  opacity: 0;
+}
+@media (max-width: 767px) {
+  .cid-rTN4YfI2OK .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-rTMvlvUSAo {
   overflow: hidden !important;
 }
