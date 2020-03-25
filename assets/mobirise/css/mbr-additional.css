@@ -1106,25 +1106,6 @@ section.lazy-placeholder:after {
 .cid-rTNaeCe5YO .mbr-section-subtitle {
   color: #232323;
 }
-.cid-rTN7Up28hW {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rTN7Up28hW .container-fluid {
-  padding: 0 3rem;
-}
-.cid-rTN7Up28hW .video-block {
-  margin: auto;
-}
-@media (max-width: 767px) {
-  .cid-rTN7Up28hW .container-fluid {
-    padding: 0 1rem;
-  }
-  .cid-rTN7Up28hW .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rTN4YfI2OK {
   background-image: url("../../../assets/images/foto-senderismo-597x429.png");
 }
@@ -1252,4 +1233,13 @@ section.lazy-placeholder:after {
     padding: 1rem 2rem;
     font-size: 16px !important;
   }
+}
+.cid-rUhxvnMoGN {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rUhxvnMoGN .media-container-row {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
