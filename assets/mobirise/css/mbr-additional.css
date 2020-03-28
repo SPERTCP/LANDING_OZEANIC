@@ -1188,51 +1188,17 @@ section.lazy-placeholder:after {
     padding: 0 1rem;
   }
 }
-.cid-rTNaUEUJFK {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+#custom-html-f {
+  /* Type valid CSS here */
 }
-.cid-rTNaUEUJFK .container-fluid {
-  padding: 0 3rem;
+#custom-html-f div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-.cid-rTNaUEUJFK .mbr-section-title {
-  margin-bottom: 1.5em;
-}
-.cid-rTNaUEUJFK .input-main {
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-rTNaUEUJFK .form-1 {
-  margin: 0 1em;
-  padding: 0;
-}
-.cid-rTNaUEUJFK .form-group {
-  margin-bottom: 1.4em;
-}
-.cid-rTNaUEUJFK .form-control {
-  background-color: #efefef;
-  border-radius: 22px;
-  padding: 18px 25px;
-}
-.cid-rTNaUEUJFK input.form-control {
-  border: 1px solid #ddd;
-}
-.cid-rTNaUEUJFK textarea.form-control {
-  padding: 1rem;
-  min-height: 209px;
-}
-.cid-rTNaUEUJFK .input-group-btn .btn {
-  padding: 1rem 4rem;
-}
-@media (max-width: 767px) {
-  .cid-rTNaUEUJFK .container-fluid {
-    padding: 0 1rem;
-  }
-  .cid-rTNaUEUJFK .input-group-btn .btn {
-    padding: 1rem 2rem;
-    font-size: 16px !important;
-  }
+#custom-html-f p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-rUhxvnMoGN {
   padding-top: 30px;
