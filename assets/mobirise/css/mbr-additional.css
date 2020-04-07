@@ -1315,6 +1315,109 @@ section.lazy-placeholder:after {
     padding: 0 1rem;
   }
 }
+.cid-rVuutDfUHD {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: #efefef;
+}
+.cid-rVuutDfUHD .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rVuutDfUHD .table-wrap {
+  margin: 0 1rem 3rem 1rem;
+  border: 1px solid #767676;
+  border-radius: 3%;
+  padding: 3rem;
+  transition: all 0.3s ease-in-out;
+}
+.cid-rVuutDfUHD .table-wrap:hover {
+  transition: all 0.3s ease-in-out;
+  background-color: #a38dfd;
+}
+.cid-rVuutDfUHD .table-wrap:hover .table-pricing,
+.cid-rVuutDfUHD .table-wrap:hover .table-icon {
+  color: #ffffff !important;
+}
+.cid-rVuutDfUHD .table-wrap:hover .table-heading,
+.cid-rVuutDfUHD .table-wrap:hover .mbr-section-subtitle {
+  color: #ffffff !important;
+}
+.cid-rVuutDfUHD .section-heading {
+  margin-bottom: 2rem;
+}
+.cid-rVuutDfUHD .table-heading {
+  margin-bottom: 2em;
+}
+.cid-rVuutDfUHD .underline {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+.cid-rVuutDfUHD .underline .line {
+  width: 6rem;
+  height: 3px;
+  background: linear-gradient(135deg, #a38dfd, #fe525b);
+  display: inline-block;
+}
+.cid-rVuutDfUHD ul {
+  word-wrap: break-word;
+  padding: 0 4rem;
+  margin: 0;
+  list-style: none;
+}
+.cid-rVuutDfUHD ul li {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  padding: 0.7em 0;
+  -webkit-align-items: flex-end;
+  align-items: flex-end;
+}
+.cid-rVuutDfUHD ul li span {
+  font-size: 32px;
+  color: #000000;
+}
+.cid-rVuutDfUHD hr {
+  display: none;
+  background: #767676;
+}
+.cid-rVuutDfUHD hr {
+  display: block;
+}
+.cid-rVuutDfUHD .table-heading,
+.cid-rVuutDfUHD .table-pricing,
+.cid-rVuutDfUHD .table-icon {
+  color: #a38dfd;
+  text-align: left;
+  transition: all 0.3s ease-in-out;
+}
+.cid-rVuutDfUHD .mbr-section-subtitle {
+  color: #767676;
+  transition: all 0.3s ease-in-out;
+}
+.cid-rVuutDfUHD .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rVuutDfUHD .mbr-iconfont {
+  font-size: 50px;
+}
+@media (max-width: 1200px) {
+  .cid-rVuutDfUHD .table-wrap {
+    margin: 1.5rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rVuutDfUHD .container-fluid {
+    padding: 0 0rem;
+  }
+}
+.cid-rVuutDfUHD .mbr-section-title,
+.cid-rVuutDfUHD .underline {
+  color: #232323;
+}
+.cid-rVuutDfUHD .table-pricing,
+.cid-rVuutDfUHD .table-icon {
+  color: #5a31fb;
+}
 #custom-html-i {
   /* Type valid CSS here */
 }
