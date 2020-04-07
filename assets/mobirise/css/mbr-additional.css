@@ -1209,3 +1209,130 @@ section.lazy-placeholder:after {
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
 }
+.cid-rVtL97bgTX {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/fonfoblancoconlogo-2-1280x720.png");
+}
+.cid-rVtL97bgTX .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rVtL97bgTX .media-container-column {
+  padding: 0 2rem;
+}
+.cid-rVtL97bgTX .mbr-section-title {
+  display: inline-block;
+  position: relative;
+  color: #1ba1e2;
+}
+@media (max-width: 767px) {
+  .cid-rVtL97bgTX .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-rVtL97bgTX .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rVtL97B52l {
+  background-image: url("../../../assets/images/foto-senderismo-597x429.png");
+}
+.cid-rVtL97B52l .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rVtL97B52l .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-rVtL97B52l .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-rVtL97B52l .modalWindow {
+  display: none;
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-rVtL97B52l .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-rVtL97B52l .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-rVtL97B52l a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-rVtL97B52l a.close:hover {
+  color: #ffffff;
+}
+.cid-rVtL97B52l svg {
+  transition: all 0.5s ease-in;
+}
+.cid-rVtL97B52l svg .blick {
+  transiton: opacity 0.5s ease-in;
+  opacity: 1;
+}
+.cid-rVtL97B52l svg:hover {
+  cursor: pointer;
+  -webkit-transform: rotate(120deg);
+  transform: rotate(120deg);
+}
+.cid-rVtL97B52l svg:hover .blick {
+  transition: opacity 0.5s ease-in;
+  opacity: 0;
+}
+@media (max-width: 767px) {
+  .cid-rVtL97B52l .container-fluid {
+    padding: 0 1rem;
+  }
+}
+#custom-html-i {
+  /* Type valid CSS here */
+}
+#custom-html-i div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-i p {
+  font-size: 60px;
+  color: #777;
+}
+.cid-rVtL99foVO {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rVtL99foVO .media-container-row {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
